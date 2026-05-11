@@ -5,7 +5,7 @@ projeto desenvolvido para o concuro agrinho 2026.
 # Tema
 Tecnologia no agro (agrotech).
 # Objetivo
-Informar as pesos sobre a importância sobre a Tecnologia no agro.
+Informar as pessoas sobre a importância sobre a Tecnologia no agro.
 # Sobre
 Um site informativo sobre a importância, beneficíos e assistência da tecnologia no campo.
 # Funcionalidades
