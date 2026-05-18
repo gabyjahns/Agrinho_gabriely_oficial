@@ -41,3 +41,5 @@ JAVASCRIPT
 https://www.embrapa.br/visao-de-futuro/sustentabilidade/sinal-e-tendencia/sistemas-agricolas-mais-sustentaveis
 https://ipe.df.gov.br/agro-sustentavel-2
 https://www.jota.info/opiniao-e-analise/artigos/agro-brasileiro-produtor-e-exemplo-de-sustentabilidade
+# Licença
+Este projeto está licenciado sob a MIT License, permitindo uso, modificação e distribuição livre, com os devidos créditos
